@@ -1,0 +1,4 @@
+wheel==0.23.0
+bottle==0.12.7
+mingus==0.5.0
+wsgiref==0.1.2

@@ -1,0 +1,32 @@
+body {
+    background: #F6F6F6;
+}
+
+.cell {
+    height: 40px;
+    width: 40px;
+    background: #E7E700;
+    margin: 1px;
+    float: left;
+}
+
+.row {
+    clear: both;
+}
+
+.active {
+    background: #FFA500;
+}
+
+.selected {
+    background: #FF4500;
+}
+
+#gridic {
+    margin: auto;
+    width: 504px;
+    margin-top: 30px;
+    border: 15px solid #D4D4D4;
+    padding-bottom: 42px;
+    border-radius: 8px;
+}
